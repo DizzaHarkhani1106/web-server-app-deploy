@@ -1,7 +1,55 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dizza\\source\\repos\\web-server-app-deploy\\Assignement1_CarRental\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\dizza\\source\\repos\\Lab4\\Assignement1_CarRental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B60E89A3-AB73-4A3E-A04B-FD35063D2781}|Assignement1_CarRental.csproj|c:\\users\\dizza\\source\\repos\\lab4\\assignement1_carrental\\assignement1_carrental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B60E89A3-AB73-4A3E-A04B-FD35063D2781}|Assignement1_CarRental.csproj|solutionrelative:assignement1_carrental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1280180C-E04B-4456-814D-E30FEFA00156}|..\\Maintenance.WebAPI\\Maintenance.WebAPI.csproj|c:\\users\\dizza\\source\\repos\\lab4\\maintenance.webapi\\models\\repairhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60E89A3-AB73-4A3E-A04B-FD35063D2781}|Assignement1_CarRental.csproj|c:\\users\\dizza\\source\\repos\\lab4\\assignement1_carrental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B60E89A3-AB73-4A3E-A04B-FD35063D2781}|Assignement1_CarRental.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60E89A3-AB73-4A3E-A04B-FD35063D2781}|Assignement1_CarRental.csproj|c:\\users\\dizza\\source\\repos\\lab4\\assignement1_carrental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60E89A3-AB73-4A3E-A04B-FD35063D2781}|Assignement1_CarRental.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60E89A3-AB73-4A3E-A04B-FD35063D2781}|Assignement1_CarRental.csproj|c:\\users\\dizza\\source\\repos\\lab4\\assignement1_carrental\\views\\maintenance\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B60E89A3-AB73-4A3E-A04B-FD35063D2781}|Assignement1_CarRental.csproj|solutionrelative:views\\maintenance\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1280180C-E04B-4456-814D-E30FEFA00156}|..\\Maintenance.WebAPI\\Maintenance.WebAPI.csproj|c:\\users\\dizza\\source\\repos\\lab4\\maintenance.webapi\\services\\fakerepairhistoryservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60E89A3-AB73-4A3E-A04B-FD35063D2781}|Assignement1_CarRental.csproj|c:\\users\\dizza\\source\\repos\\lab4\\assignement1_carrental\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60E89A3-AB73-4A3E-A04B-FD35063D2781}|Assignement1_CarRental.csproj|solutionrelative:controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60E89A3-AB73-4A3E-A04B-FD35063D2781}|Assignement1_CarRental.csproj|c:\\users\\dizza\\source\\repos\\lab4\\assignement1_carrental\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B60E89A3-AB73-4A3E-A04B-FD35063D2781}|Assignement1_CarRental.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60E89A3-AB73-4A3E-A04B-FD35063D2781}|Assignement1_CarRental.csproj|c:\\users\\dizza\\source\\repos\\lab4\\assignement1_carrental\\models\\repairhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60E89A3-AB73-4A3E-A04B-FD35063D2781}|Assignement1_CarRental.csproj|solutionrelative:models\\repairhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60E89A3-AB73-4A3E-A04B-FD35063D2781}|Assignement1_CarRental.csproj|c:\\users\\dizza\\source\\repos\\lab4\\assignement1_carrental\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B60E89A3-AB73-4A3E-A04B-FD35063D2781}|Assignement1_CarRental.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1280180C-E04B-4456-814D-E30FEFA00156}|..\\Maintenance.WebAPI\\Maintenance.WebAPI.csproj|c:\\users\\dizza\\source\\repos\\lab4\\maintenance.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dizza\\source\\repos\\Maintenance.WebAPI\\Controllers\\MaintenanceController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dizza\\source\\repos\\Maintenance.WebAPI\\Controllers\\MaintenanceController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +57,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +70,163 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepairHistoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\dizza\\source\\repos\\Lab4\\Maintenance.WebAPI\\Models\\RepairHistoryDto.cs",
+              "RelativeDocumentMoniker": "..\\Maintenance.WebAPI\\Models\\RepairHistoryDto.cs",
+              "ToolTip": "C:\\Users\\dizza\\source\\repos\\Lab4\\Maintenance.WebAPI\\Models\\RepairHistoryDto.cs",
+              "RelativeToolTip": "..\\Maintenance.WebAPI\\Models\\RepairHistoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T02:14:07.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dizza\\source\\repos\\Lab4\\Assignement1_CarRental\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dizza\\source\\repos\\Lab4\\Assignement1_CarRental\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T02:09:01.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\dizza\\source\\repos\\Lab4\\Assignement1_CarRental\\Views\\Maintenance\\History.cshtml",
+              "RelativeDocumentMoniker": "Views\\Maintenance\\History.cshtml",
+              "ToolTip": "C:\\Users\\dizza\\source\\repos\\Lab4\\Assignement1_CarRental\\Views\\Maintenance\\History.cshtml",
+              "RelativeToolTip": "Views\\Maintenance\\History.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T02:02:43.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assignement1_CarRental.csproj",
+              "DocumentMoniker": "C:\\Users\\dizza\\source\\repos\\Lab4\\Assignement1_CarRental\\Assignement1_CarRental.csproj",
+              "RelativeDocumentMoniker": "Assignement1_CarRental.csproj",
+              "ToolTip": "C:\\Users\\dizza\\source\\repos\\Lab4\\Assignement1_CarRental\\Assignement1_CarRental.csproj",
+              "RelativeToolTip": "Assignement1_CarRental.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-14T01:54:30.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MaintenanceController.cs",
+              "DocumentMoniker": "C:\\Users\\dizza\\source\\repos\\Lab4\\Assignement1_CarRental\\Controllers\\MaintenanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MaintenanceController.cs",
+              "ToolTip": "C:\\Users\\dizza\\source\\repos\\Lab4\\Assignement1_CarRental\\Controllers\\MaintenanceController.cs",
+              "RelativeToolTip": "Controllers\\MaintenanceController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T02:01:02.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dizza\\source\\repos\\Lab4\\Assignement1_CarRental\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dizza\\source\\repos\\Lab4\\Assignement1_CarRental\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T01:59:22.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dizza\\source\\repos\\Lab4\\Assignement1_CarRental\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\dizza\\source\\repos\\Lab4\\Assignement1_CarRental\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-14T01:57:14.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FakeRepairHistoryService .cs",
+              "DocumentMoniker": "C:\\Users\\dizza\\source\\repos\\Lab4\\Maintenance.WebAPI\\Services\\FakeRepairHistoryService .cs",
+              "RelativeDocumentMoniker": "..\\Maintenance.WebAPI\\Services\\FakeRepairHistoryService .cs",
+              "ToolTip": "C:\\Users\\dizza\\source\\repos\\Lab4\\Maintenance.WebAPI\\Services\\FakeRepairHistoryService .cs",
+              "RelativeToolTip": "..\\Maintenance.WebAPI\\Services\\FakeRepairHistoryService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T02:14:36.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepairHistoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dizza\\source\\repos\\Lab4\\Assignement1_CarRental\\Models\\RepairHistoryViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\RepairHistoryViewModel.cs",
+              "ToolTip": "C:\\Users\\dizza\\source\\repos\\Lab4\\Assignement1_CarRental\\Models\\RepairHistoryViewModel.cs",
+              "RelativeToolTip": "Models\\RepairHistoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T02:00:09.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dizza\\source\\repos\\Lab4\\Assignement1_CarRental\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dizza\\source\\repos\\Lab4\\Assignement1_CarRental\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-14T01:54:34.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dizza\\source\\repos\\Lab4\\Maintenance.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Maintenance.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\dizza\\source\\repos\\Lab4\\Maintenance.WebAPI\\Program.cs",
+              "RelativeToolTip": "..\\Maintenance.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T05:50:23.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MaintenanceController.cs",
+              "DocumentMoniker": "C:\\Users\\dizza\\source\\repos\\Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
+              "ToolTip": "C:\\Users\\dizza\\source\\repos\\Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
+              "RelativeToolTip": "..\\..\\Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T00:54:49.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MaintenanceController.cs",
+              "DocumentMoniker": "C:\\Users\\dizza\\source\\repos\\Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
+              "ToolTip": "C:\\Users\\dizza\\source\\repos\\Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
+              "RelativeToolTip": "..\\..\\Maintenance.WebAPI\\Controllers\\MaintenanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T00:54:49.057Z"
             },
             {
               "$type": "Bookmark",
